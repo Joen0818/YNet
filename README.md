@@ -1,1 +1,1 @@
-# YNet
+# Y-Net
